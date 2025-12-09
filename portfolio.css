@@ -1,0 +1,40 @@
+nav{
+background-color:#420A1F ;
+height: 80px;
+
+
+
+}
+
+
+.za {
+
+float: left;
+
+color: aliceblue;
+
+
+}
+
+ul {
+
+     list-style: none;
+
+     float: right;
+   
+
+
+}
+
+
+li {
+
+    float: left;
+
+    color: aliceblue;
+
+    padding:15px;
+    
+    font-size: 25px;
+    
+ }
