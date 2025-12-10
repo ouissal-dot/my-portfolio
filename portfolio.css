@@ -69,6 +69,9 @@ h2 {
 /* Photo wrapper (circle container) */
 .photo {
   width: 35rem;
+
+  animation-name: zoom;
+
   height: 35rem;
   margin: 0 auto 40px;      /* centers the circle */
   border-radius: 50%;
@@ -87,7 +90,9 @@ h2 {
   object-fit: cover;
   overflow: hidden;
   margin: -40px auto 40px;
-}
+  }
+
+  
  
 
 .bio { 
@@ -110,14 +115,14 @@ top: -200px;}
 
 
   .social-link img { 
-width: 3rem;
+  width: 3rem;
   height: 3rem;
   align-items: center;
   justify-content: center;
   position: relative;
   padding: 20px;
   position: relative;
-  top: -100px;
+  top: -200px;
 
 
      }
