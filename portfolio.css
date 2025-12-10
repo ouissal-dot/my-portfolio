@@ -1,40 +1,88 @@
-nav{
-background-color:#420A1F ;
-height: 80px;
 
 
-
+nav {
+  background-color: #420A1F;
+  height: 80px;
+  display: block;
 }
 
 
 .za {
+  float: left;
+  color: aliceblue;
+  font-size: 30px;
+  position: relative;
+  top: 6px;
+  left: 60px;
 
-float: left;
-
-color: aliceblue;
-
-
+  font-family: "Allura", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
+
+
 
 ul {
+  list-style: none;
+  float: right;
+}
 
-     list-style: none;
+li {
+  float: left;
+  color: aliceblue;
+  padding: 15px;
+  font-size: 15px;
+  position: relative;
+  right: 60px;
 
-     float: right;
-   
+  font-family: "Oleo Script", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
+
+h2{
+
+     color: #420A1F;
+
+     font-family: "Allura", cursive;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 300%;
+  position: relative;
+  top:px;
+  text-align: center;
+   margin-top: 0;
 
 }
 
 
-li {
+.photo {
+  width: 35rem;
+  height: 35rem;
+  margin: 0 auto 40px;             /* center the circle */
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-    float: left;
 
-    color: aliceblue;
+  }
 
-    padding:15px;
-    
-    font-size: 25px;
-    
- }
+.photo img {
+  width: 25rem;
+  height: 25rem;
+  border-radius: 50%;
+  object-fit: cover;
+  overflow: hidden;
+ margin-top: 1rem;
+    margin-bottom: 37px;
+    border-radius: 50%;
+     margin: -40px auto 40px;
+}
+
+#about-section {
+  background-color: #f5e5ea;      /* dark background to show the glow */
+  padding: 60px 0 80px;
+  text-align: center;
+}
