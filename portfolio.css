@@ -1,4 +1,6 @@
-
+/* ----------------------------- */
+/*            NAVBAR             */
+/* ----------------------------- */
 
 nav {
   background-color: #420A1F;
@@ -6,83 +8,116 @@ nav {
   display: block;
 }
 
-
+/* Logo / Name on the left */
 .za {
   float: left;
   color: aliceblue;
-  font-size: 30px;
+  font-size: 25px;
   position: relative;
-  top: 6px;
+  top: 10px;
   left: 60px;
 
-  font-family: "Allura", cursive;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
-
-
+/* Navbar list (right side) */
 ul {
   list-style: none;
   float: right;
 }
 
+/* Navbar items */
 li {
   float: left;
   color: aliceblue;
   padding: 15px;
-  font-size: 15px;
+  font-size: 20px;
   position: relative;
   right: 60px;
 
-  font-family: "Oleo Script", system-ui;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
 
-h2{
+/* ----------------------------- */
+/*        ABOUT SECTION          */
+/* ----------------------------- */
 
-     color: #420A1F;
+#about-section {
+  background-color: #f5e5ea38;
+  padding: 60px 0 80px;
+  text-align: center;
+}
 
-     font-family: "Allura", cursive;
+/* Section title */
+h2 {
+  color: #420A1F;
+  font-family: "Allura", cursive;
   font-weight: 800;
   font-style: normal;
   font-size: 300%;
-  position: relative;
-  top:px;
   text-align: center;
-   margin-top: 0;
-
+  margin-top: 0;
 }
 
-
+/* Photo wrapper (circle container) */
 .photo {
   width: 35rem;
   height: 35rem;
-  margin: 0 auto 40px;             /* center the circle */
+  margin: 0 auto 40px;      /* centers the circle */
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
+  top: -50px;
+}
 
-
-  }
-
+/* Actual image */
 .photo img {
   width: 25rem;
   height: 25rem;
   border-radius: 50%;
   object-fit: cover;
   overflow: hidden;
- margin-top: 1rem;
-    margin-bottom: 37px;
-    border-radius: 50%;
-     margin: -40px auto 40px;
+  margin: -40px auto 40px;
 }
+ 
 
-#about-section {
-  background-color: #f5e5ea;      /* dark background to show the glow */
-  padding: 60px 0 80px;
-  text-align: center;
-}
+.bio { 
+     
+    
+  font-size: 1.2rem;
+  color: #5a3e47;       /* soft wine/brown feminine tone */
+  line-height: 1;     /* elegant spacing */
+  margin: 0 auto;
+  max-width: 1000px;     /* keeps text readable */
+  padding: 10px 20px;
+
+position: relative;
+
+font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+top: -200px;}
+
+
+  .social-link img { 
+width: 3rem;
+  height: 3rem;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 20px;
+  position: relative;
+  top: -100px;
+
+
+     }
