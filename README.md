@@ -1,12 +1,48 @@
-# my-portfolio
-A modern personal portfolio reflecting my personality, skills, and passion for tech, design, and digital strategy.
-## 📆 Daily Development Log
-Tracking my journey as I build and improve my portfolio every day.
-### 🗓️ Day 1 — 9/12/2025
-✔ Built the basic structure of my portfolio using HTML  
-✔ Added the `<nav>` section and created the navbar layout  
-✔ Styled the navbar in CSS using a dark feminine color (#420A1F)  
-✔ Positioned my name on the left (`.za`) and menu items on the right  
-✔ Adjusted spacing, font size, and alignment for the navigation links  
-✔ Updated my project folder with index.html and portfolio.css  
-✔ Prepared the files for uploading to GitHub 
+# 🌸 Personal Portfolio – Ouissal Attaaricha
+
+Welcome to my personal portfolio website!  
+This project showcases my background, skills, certifications, and online presence in a clean and elegant design.
+
+---
+
+## ✨ About the Project
+
+This portfolio is a **static website** built using **HTML and CSS**.  
+It is designed to present:
+
+- A short personal introduction
+- My professional background
+- My certifications
+- Links to my social media profiles
+- Future projects and contact section
+
+The goal of this project is to create a **simple, aesthetic, and responsive personal brand website**.
+
+---
+
+## 🛠️ Built With
+
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling, layout, and animations  
+- **Google Fonts** – Custom typography  
+- **Flexbox** – Layout alignment  
+
+No JavaScript or external frameworks were used.
+
+---
+
+## 📂 Project Structure
+
+```text
+├── portfolio.html
+├── portfolio.css
+├── images/
+│   ├── photo.jpg
+│   ├── linkedin.png
+│   ├── github.png
+│   ├── instagram.png
+│   ├── facebook.png
+│   ├── AI.jpg
+│   ├── display.jpg
+│   └── started.jpg
+└── README.md
