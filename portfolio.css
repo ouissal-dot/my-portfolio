@@ -5,7 +5,12 @@
 nav {
   background-color: #420A1F;
   height: 80px;
-  display: block;
+    top: 0;            /* stick to top */
+  left: 0;
+  width: 100%;       /* full width */
+
+  z-index: 1000;     /* stays above content */
+  position: fixed;
   
   
   }
@@ -85,6 +90,8 @@ li {
   padding: 60px 0 80px;
   text-align: center;
   height: 800px;
+  position: relative;
+  top: 50px;
 }
 
 /* Certifications Section */
@@ -212,9 +219,8 @@ transform: scale(1.08);
 
   }
 
-/* Carte AI (si tu veux un contour arrondi) */
-.AI {
-}
+
+
 
 .h3,
 .h4 {
@@ -232,7 +238,7 @@ transform: scale(1.08);
 #Certifications-section h4 {
   color: #000000;
   font-size: 18px;
-  justify-content: center;
+  
 
 }
 
@@ -240,18 +246,33 @@ transform: scale(1.08);
 .display,
 .started {
   float: left;
+
+   width: 320px;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 35px;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
   }
 
 .certif {
   list-style: none;
   float: left;
 position: relative;
-top: 100px;
+top: 25px;
 align-items: center;
   justify-content: center;
+    list-style: none;
+  display: flex;                 /* ⭐ makes items align in one row */
+  justify-content: center;       /* centers them horizontally */
+  gap: 40px;                     /* space between cards */
+  padding: 0;
+  margin: 10px auto;
+  
   
   
 }
+
 
 
 /* REMOVE BLUE COLOR + UNDERLINE FROM ALL LINKS */
@@ -259,3 +280,9 @@ a {
   text-decoration: none;   /* remove underline */
   color: inherit;          /* remove blue color */
 }
+
+
+
+
+
+
