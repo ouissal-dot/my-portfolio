@@ -1,48 +1,42 @@
 # 🌸 Personal Portfolio – Ouissal Attaaricha
 
-Welcome to my personal portfolio website!  
-This project showcases my background, skills, certifications, and online presence in a clean and elegant design.
+Welcome to my personal portfolio!  
+This website showcases my projects, skills, and ways to contact me. It’s designed to be clean, modern, and easy to navigate.
 
 ---
 
-## ✨ About the Project
+## ✨ Features
 
-This portfolio is a **static website** built using **HTML and CSS**.  
-It is designed to present:
-
-- A short personal introduction
-- My professional background
-- My certifications
-- Links to my social media profiles
-- Future projects and contact section
-
-The goal of this project is to create a **simple, aesthetic, and responsive personal brand website**.
+- 🎨 Modern responsive design (mobile / tablet / desktop)
+- 🧩 Projects section with details and links
+- 👩‍💻 About me + skills
+- 📄 Resume/CV download (optional)
+- 📬 Contact section (email + social links)
+- ⚡ Fast performance and smooth UI
 
 ---
 
 ## 🛠️ Built With
 
-- **HTML5** – Structure of the website  
-- **CSS3** – Styling, layout, and animations  
-- **Google Fonts** – Custom typography  
-- **Flexbox** – Layout alignment  
-
-No JavaScript or external frameworks were used.
+- HTML5 / CSS3 / JavaScript  
+*(Update this list if you used a framework)*  
+- (Optional) React / Next.js / Tailwind CSS / Bootstrap
+- (Optional) EmailJS / Formspree for contact form
 
 ---
 
 ## 📂 Project Structure
 
-```text
-├── portfolio.html
-├── portfolio.css
-├── images/
-│   ├── photo.jpg
-│   ├── linkedin.png
-│   ├── github.png
-│   ├── instagram.png
-│   ├── facebook.png
-│   ├── AI.jpg
-│   ├── display.jpg
-│   └── started.jpg
+```bash
+portfolio/
+├── index.html
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── cv/
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
 └── README.md
+
