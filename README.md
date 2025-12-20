@@ -1,42 +1,85 @@
-# 🌸 Personal Portfolio – Ouissal Attaaricha
+🧑‍💻 About Me
 
-Welcome to my personal portfolio!  
-This website showcases my projects, skills, and ways to contact me. It’s designed to be clean, modern, and easy to navigate.
+🎓 Student in CPGE TSI – 2nd year (Spé)
 
----
+🛠️ Strong background in:
 
-## ✨ Features
+Mathematics & Physics
 
-- 🎨 Modern responsive design (mobile / tablet / desktop)
-- 🧩 Projects section with details and links
-- 👩‍💻 About me + skills
-- 📄 Resume/CV download (optional)
-- 📬 Contact section (email + social links)
-- ⚡ Fast performance and smooth UI
+Electrical & Mechanical Engineering
 
----
+Programming & Digital Tools
 
-## 🛠️ Built With
+📊 Interested in technical projects, data analysis, and engineering applications
 
-- HTML5 / CSS3 / JavaScript  
-*(Update this list if you used a framework)*  
-- (Optional) React / Next.js / Tailwind CSS / Bootstrap
-- (Optional) EmailJS / Formspree for contact form
+🌍 Goal: succeed in engineering schools (France / Morocco) and build real-world projects
 
----
+🛠️ Skills
+🔹 Programming
 
-## 📂 Project Structure
+Python 🐍
 
-```bash
-portfolio/
-├── index.html
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── cv/
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-└── README.md
+MATLAB
 
+C (Basics)
+
+Git & GitHub
+
+🔹 Engineering
+
+Electrical Engineering ⚡
+
+Mechanical Engineering ⚙️
+
+Control Systems
+
+Signals & Systems
+
+🔹 Tools
+
+Python (NumPy, Matplotlib, Pandas)
+
+LaTeX
+
+Microsoft Office
+
+Project documentation & reporting
+
+📂 Projects
+📌 Project 1: Les Saveurs de Marrakech (Final Year Project)
+
+📄 Business Plan & Strategic Study
+
+Market analysis (PESTEL, SWOT)
+
+Marketing strategy
+
+Financial analysis
+
+Digital strategy
+🔗 (Add repo link here)
+
+📌 Project 2: Engineering Simulations
+
+System modeling
+
+Data visualization with Python
+
+Engineering problem solving
+🔗 (Add repo link here)
+
+📊 What I’m Currently Working On
+
+📈 Improving Python for engineering applications
+
+🧠 Learning advanced problem-solving methods
+
+📝 Preparing for competitive engineering exams
+
+📫 Contact Me
+
+📧 Email: your.email@example.com
+
+💼 LinkedIn: (add your link)
+
+🌐 Portfolio: (if available)
