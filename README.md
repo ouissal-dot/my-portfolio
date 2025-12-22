@@ -14,8 +14,7 @@ Programming & Digital Tools
 
 🌍 Goal: succeed in engineering schools (France / Morocco) and build real-world projects
 
-🛠️ Skills
-🔹 Programming
+🛠️ Skills 🔹 Programming
 
 Python 🐍
 
@@ -45,8 +44,7 @@ Microsoft Office
 
 Project documentation & reporting
 
-📂 Projects
-📌 Project 1: Les Saveurs de Marrakech (Final Year Project)
+📂 Projects 📌 Project 1: Les Saveurs de Marrakech (Final Year Project)
 
 📄 Business Plan & Strategic Study
 
@@ -56,8 +54,7 @@ Marketing strategy
 
 Financial analysis
 
-Digital strategy
-🔗 (Add repo link here)
+Digital strategy 🔗 (Add repo link here)
 
 📌 Project 2: Engineering Simulations
 
@@ -65,8 +62,7 @@ System modeling
 
 Data visualization with Python
 
-Engineering problem solving
-🔗 (Add repo link here)
+Engineering problem solving 🔗 (Add repo link here)
 
 📊 What I’m Currently Working On
 
