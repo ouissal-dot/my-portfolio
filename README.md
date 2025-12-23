@@ -8,14 +8,6 @@ Mathematics & Physics
 
 Electrical & Mechanical Engineering
 
-Programming & Digital Tools
-
-📊 Interested in technical projects, data analysis, and engineering applications
-
-🌍 Goal: succeed in engineering schools (France / Morocco) and build real-world projects
-
-🛠️ Skills 🔹 Programming
-
 Python 🐍
 
 MATLAB
