@@ -1,73 +1,118 @@
-🧑‍💻 About Me
+# 🌑 Ouissal Attaaricha – Personal Portfolio
 
-🎓 Student in CPGE TSI – 2nd year (Spé)
+Welcome to my personal portfolio ✨  
+This project reflects my **dark feminine personality**, blended with **coding, creativity, and digital ambition**.
 
-🛠️ Strong background in:
+---
 
-Mathematics & Physics
+## 🖤 About the Project
 
-Electrical & Mechanical Engineering
+This portfolio is more than a website — it’s a **digital expression of who I am**.
 
-Python 🐍
+It showcases:
+- My **skills in programming & digital business**
+- My **certifications and learning journey**
+- My **projects and future potential**
+- My personal **aesthetic: dark, feminine, confident**
 
-MATLAB
+---
 
-C (Basics)
+## 🧠 Concept & Inspiration
 
-Git & GitHub
+> *“Watch me turn dreams into projects.”*
 
-🔹 Engineering
+The design and structure represent:
+- 🌑 **Dark Feminine Energy** → elegance, mystery, confidence  
+- 💻 **Programming & Logic** → structure, discipline, creation  
+- 🎮 **Personal Touch** → curiosity, media, games, growth  
 
-Electrical Engineering ⚡
+---
 
-Mechanical Engineering ⚙️
+## 🛠️ Built With
 
-Control Systems
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- *(Python used in learning & future projects)*
 
-Signals & Systems
+---
 
-🔹 Tools
+## 🎓 Certifications
 
-Python (NumPy, Matplotlib, Pandas)
+- 🏅 **HTML Certification** – W3Schools  
+- 🏅 **CSS Certification** – W3Schools  
+- 🏅 **JavaScript Certification** – W3Schools  
+- 🏅 **Python Certification** – W3Schools  
+- 🏅 **Digital Marketing Strategy** – Simplilearn  
+- 🏅 **AI-Powered Shopping Ads** – Google Skillshop  
+- 🏅 **Google Ads Display Certification** – Google Skillshop  
+- 🏅 **Google Analytics (Getting Started)** – Google Skillshop  
 
-LaTeX
+These certifications reflect my commitment to **continuous learning and skill growth**.
 
-Microsoft Office
+---
 
-Project documentation & reporting
+## 💻 Projects
 
-📂 Projects 📌 Project 1: Les Saveurs de Marrakech (Final Year Project)
+### 🖤 Project 1 – Personal Portfolio Website
+A personal portfolio designed with a **dark feminine aesthetic**, showcasing my personality, skills, and journey.
 
-📄 Business Plan & Strategic Study
+**Technologies:** HTML, CSS  
+**Status:** Live & evolving
 
-Market analysis (PESTEL, SWOT)
+---
 
-Marketing strategy
+### 💻 Project 2 – Responsive Web Pages
+A collection of responsive layouts focusing on **clean structure and mobile-first design**.
 
-Financial analysis
+**Technologies:** HTML, CSS  
+**Status:** Completed
 
-Digital strategy 🔗 (Add repo link here)
+---
 
-📌 Project 2: Engineering Simulations
+### ⚙️ Project 3 – JavaScript Interactive Features
+Small interactive components (menus, buttons, animations) built to practice **JavaScript logic and DOM manipulation**.
 
-System modeling
+**Technologies:** JavaScript  
+**Status:** In progress
 
-Data visualization with Python
+---
 
-Engineering problem solving 🔗 (Add repo link here)
+### 🐍 Project 4 – Python Practice Projects
+A set of beginner-to-intermediate Python exercises focusing on:
+- logic
+- conditions
+- loops
+- problem solving
 
-📊 What I’m Currently Working On
+**Technologies:** Python  
+**Status:** Ongoing learning
 
-📈 Improving Python for engineering applications
+---
 
-🧠 Learning advanced problem-solving methods
+## 📞 Contact Me
 
-📝 Preparing for competitive engineering exams
+- 📧 Email: [ouissal.attaaricha@gmail.com](mailto:ouissal.attaaricha@gmail.com)  
+- 📱 Phone: +212 666 426 215  
+- 💼 LinkedIn: https://www.linkedin.com/in/ouissal-attaaricha-651196255/  
+- 🐱 GitHub: https://github.com/ouissal-dot  
 
-📫 Contact Me
+---
 
-📧 Email: your.email@example.com
+## 🚀 Future Plans
 
-💼 LinkedIn: (add your link)
+- Add real-world JavaScript & Python projects  
+- Improve animations and interactions  
+- Deploy portfolio on GitHub Pages  
+- Continue building, learning, and evolving 🌙  
 
-🌐 Portfolio: (if available)
+---
+
+## 🖤 Final Words
+
+This portfolio grows as I grow.  
+I believe in **learning by doing**, expressing creativity through code, and building a future one project at a time.
+
+> *Lifelong learner. Dark feminine energy. Coding my own path.*
+
+© 2025 – Ouissal Attaaricha
