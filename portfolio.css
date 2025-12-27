@@ -1,0 +1,138 @@
+* {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header {
+  background-color: black;
+  height: 50px;
+  width: auto;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+.logo {
+  float: left;
+  font-size: 15px;
+  color: white;
+  position: relative;
+  top: 15px;
+  left: 30px;
+}
+
+.logo:hover {
+  text-shadow: 0 0 20px rgb(255, 255, 255);
+}
+
+
+ul {
+  float: right;
+}
+
+li {
+  float: left;
+  padding: 15px;
+  list-style: none;
+  font-size: 15px;
+}
+
+.la {
+  color: whitesmoke;
+  position: relative;
+  right: 30px;
+  text-decoration: none;
+}
+
+.la:hover {
+  text-shadow: 0 0 20px rgb(255, 255, 255);
+}
+
+
+.about {
+  text-align: center;
+  width: auto;
+  height: 800px;
+  background-color: rgb(31, 28, 28);
+  color: whitesmoke;
+}
+
+
+.media {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  gap: 30px ;
+  margin-top: 60px;
+  
+  
+}
+
+.media img {
+  width: 60px;
+}
+
+
+.me {
+  text-align: center;
+  position: relative;
+  left: 230px;
+  font-size: 40px;
+  top: 40px;
+  animation: GLOWWW 1s ease-in-out infinite
+  
+}
+
+.photo img {
+  margin-top: 100px;
+border: 1;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @keyframes GLOWWW {
+   from {  
+
+    text-shadow: 0 0 20px rgb(255, 255, 255);
+      
+
+  }
+
+  to { 
+     text-shadow: 0 0 30px rgb(255, 255, 255),
+                    0 0 10px rgb(255, 255, 255);
+     }
+
+  }
+
+
+
+    
