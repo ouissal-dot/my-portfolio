@@ -16,6 +16,10 @@ header {
   z-index: 1000;
 }
 
+  
+
+
+
 html,
 body {
   overflow-x: hidden;
@@ -94,7 +98,7 @@ li {
 
 .photo img {
   margin-top: 100px;
-  border: 1;
+  
 }
 
 .text {
@@ -109,6 +113,7 @@ h2 {
   position: relative;
   top: 40px;
   animation: GLOWWW1 0.5s ease-in-out infinite;
+  
 }
 
 /* CERTIFICATIONS */
@@ -249,15 +254,40 @@ background-color: aqua;
     }
     .photocontact {
  width: 50%;
-background-color: brown;
+
 
     }
-.contacttitle{
 
+.photocontact img {
 
+  position: relative;
+  left: 230px;
+  top: 50px;
+  
+
+}
+.textcontact{
+
+  align-content: center;
+  position: relative;
+  left: 250px;
+  top: 20px;
+
+}
+.contacttitle {
+
+position: relative;
+
+top: 30px;
 
 
 }
+
+
+
+
+
+
 
 
 
