@@ -278,15 +278,24 @@ background-color: aqua;
 
 position: relative;
 
-top: 30px;
-
+top: 35px;
 
 }
 
 
+.contacte1, .contacte2, .contacte3 {
+
+width: 300px;
+height: 130px;
+background-color: rgb(119, 44, 44);
+display: flex;
+position: relative;
+top: 50px;
+align-items: center;
 
 
 
+}
 
 
 
