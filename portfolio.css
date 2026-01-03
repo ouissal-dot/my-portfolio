@@ -84,6 +84,11 @@ li {
   margin-top: 40px;
 }
 
+.media img:hover{
+  transform: scale(1.08);
+}
+
+
 .media img {
   width: 60px;
 }
@@ -168,6 +173,12 @@ a {
   top: 10px;
   left: 25px;
  
+}
+
+.certif:hover {
+
+ 
+  transform: scale(1.08);
 }
 
 .certification {
@@ -309,10 +320,27 @@ border-radius: 20px;
 
 } 
 
-.contacte1,  .contacte2,  .contacte3:hover {
+.contacte1:hover {
 
  
-} 
+  transform: scale(1.08);
+}
+
+
+
+.contacte2:hover {
+
+ 
+  transform: scale(1.08);
+}
+
+
+.contacte3:hover {
+
+ 
+  transform: scale(1.08);
+}
+
 
 
 
