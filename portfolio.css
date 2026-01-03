@@ -190,6 +190,9 @@ footer {
   font-size: small;
   color: whitesmoke;
   align-content: center;
+ 
+  position: relative;
+  top: 10px;
 }
 
 .top {
@@ -198,6 +201,8 @@ footer {
   color: white;
   font-size: 15px;
   text-decoration: none;
+  animation: GLOWWW 0.5s ease-in-out infinite;
+
 }
 
 .fot {
@@ -223,94 +228,93 @@ background-color: rgb(255, 255, 255);
 #journeysection{
 
 width: 100%;
-height: 800px;
+height: 700px;
 background-color: rgb(255, 255, 255);
   }
 
 
 
-/* contact */
+
+
 #contactsection{
-   display:flex;
-  ;
+
 width: 100%;
-height: 450px;
-background-color: rgb(211, 211, 211);
+height: 400px;
+
+
+
+
+
+  min-height: 400px; /* full screen height */
+  background-image: url("OIOI.png");
+  background-size: cover;       /* fills section perfectly */
+  background-position: center;  /* keeps subject centered */
+  background-repeat: no-repeat;
+
+
   }
 
 
 
-.contact img {
-  width: 50px;
-  position: relative;
-  left: 80px;
-  top: 35px;
+
+ .contacte1 img {
+  width: 60px;
+  
 }
 
 
-  .contact {
+.contacte2 img {
+  width: 60px;
+} 
+ 
+ 
+ .contacte3 img {
+  width: 60px;
+}
 
- width: 55%;
-background-color: rgb(211, 211, 211);
-display: flex;
-gap: 15px;
 
+.contact{
 
-    }
-    .photocontact {
- width: 45%;
-background-color: rgb(211, 211, 211);
-
-    }
-
-.photocontact img {
-
-  position: relative;
-  left: 230px;
-  top: 50px;
-
+  text-align: center;
   
 
-}
+
+} 
+ 
+.contacte1,  .contacte2,  .contacte3 {
+  
+display: flex;
+width: 70px;
+background-color: rgb(255, 255, 255);
+height: 70px;
+margin: 40px;
+align-items: center;
+justify-content: center;
+float: left;
+position: relative;
+top: 60px;
+left: 530px;
+border: 1px solid white;
+border-radius: 20px;
+
+
+} 
+
 .textcontact{
 
-  align-content: center;
-  position: relative;
-  left: 250px;
-  top: 20px;
+  color: whitesmoke;
 
-}
-.contacttitle {
-
-position: relative;
-left: 330px;
-top: 35px;
-
-}
+  animation: GLOWWW 0.5s ease-in-out infinite;
 
 
-.contacte1, .contacte2, .contacte3 {
+} 
 
-width: 600px;
-height: 125px;
-background-color: rgb(255, 255, 255);
-right: 10px;
-position: relative;
-top: 150px;
-align-items: center;
-border: 1px groove;
-border-color: black ;
-border-radius: 50px;
-justify-content: space-around;
-left: -35px;
+.contacte1,  .contacte2,  .contacte3:hover {
 
  
- 
+} 
 
 
-
-
-}
 
 
 
