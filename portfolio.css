@@ -140,6 +140,19 @@ background-color: rgb(0, 0, 0);
   width: 3rem;
   
 }
+
+.photo img {
+ width: 225px;
+ border-radius: 50%;
+ background-color: rgb(0, 0, 0);
+  
+}
+
+.photo img:hover {
+  box-shadow: 0 0 2px 1px rgb(255, 255, 255);
+}
+
+
 .media img:hover{
  
   
@@ -161,7 +174,8 @@ background-color: rgb(0, 0, 0);
 .text{
  
   
-font-size: small;
+font-size: x-small;
+line-height: 20PX ;
 text-align: center;
 
 }
@@ -297,7 +311,29 @@ background-color: rgba(255, 255, 255, 0.237);
   width: 3rem;
   
 }
+/* .contacte1:hover .num{
+ 
+  visibility: visible;
 
+}
+
+
+.num{
+ 
+  visibility: hidden;
+  border-radius: 6px;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+.contacte1 {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  cursor: pointer;  
+}
+
+ */
 
 .foter{
  
@@ -365,3 +401,12 @@ background-color: rgba(255, 255, 255, 0.237);
                  0 0 10px rgb(6, 6, 6);
   }
 }
+
+
+
+
+
+
+
+
+
